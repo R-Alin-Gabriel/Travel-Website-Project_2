@@ -1,6 +1,6 @@
 # Responsive Travel Website
 
-#### I have built a one-page responsive Travel website with smoth scroll, swiper-slide and sticky header nav using: 
+#### I have built a one-page responsive Travel website with smooth scroll, swiper-slide, and sticky header nav using:
 * HTML
 * CSS
 * JavaScript 
